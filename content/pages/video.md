@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section provides videos of basic fencing movements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video
 uid: d7d39298-c4cb-d194-8b2e-ed0794b5b66b
 ---
 
-Videos of basic fencing movements are provided here. For other fencing videos supplied by other Web sites, please see the [related resources]({{< baseurl >}}/pages/related-resources) section.
+Videos of basic fencing movements are provided here. For other fencing videos supplied by other Web sites, please see the {{% resource_link 3ae33134-916e-ec82-106d-116d43dc27f3 "related resources" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a list of general references for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
